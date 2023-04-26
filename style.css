@@ -8,3 +8,9 @@ body {
   font-family: sans-serif;
   background-color: blue;
 }
+
+button {
+  background-color: yellow;
+  border: 1px solid black;
+  color: #000;
+}
